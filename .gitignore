@@ -1,0 +1,51 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# Local datasets
+data/*.csv
+data/*.zip
+
+# Trained machine learning models
+models/*.joblib
+models/*.pkl
+
+# Environment variables and secrets
+.env
+.env.*
+
+# Allow example environment files
+!.env.example
+
+# Operating system files
+.DS_Store
+Thumbs.db
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+venv/
+
+# Secrets
+.env
+.env.*
+
+# macOS
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Dataset
+data/creditcard.csv
+
+# Generated model
+*.joblib

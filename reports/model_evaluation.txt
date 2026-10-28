@@ -1,0 +1,23 @@
+FRAUDSHIELD ML - MODEL EVALUATION
+
+Model: Logistic Regression
+Test size: 20%
+Class weighting: balanced
+
+Classification Report:
+              precision    recall  f1-score   support
+
+  Legitimate       1.00      0.98      0.99     56864
+  Fraudulent       0.06      0.92      0.11        98
+
+    accuracy                           0.98     56962
+   macro avg       0.53      0.95      0.55     56962
+weighted avg       1.00      0.98      0.99     56962
+
+
+Confusion Matrix:
+[[55478  1386]
+ [    8    90]]
+
+PR-AUC: 0.7159
+ROC-AUC: 0.9722
