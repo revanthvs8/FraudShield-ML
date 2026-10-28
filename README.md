@@ -39,6 +39,17 @@ FraudShield-ML/
     ├── exploratory_analysis.py
     └── visualize_data.py
 ```
+## 📸 Application Screenshots
+
+### Dashboard
+![FraudShield ML Dashboard](screenshots/dashboard.png)
+
+### Fraud Analytics
+![Fraud Analytics](screenshots/fraud-analytics.png)
+
+### Transaction Prediction
+![Transaction Prediction](screenshots/transaction-prediction.png)
+
 
 ## Dataset
 
@@ -105,16 +116,6 @@ The project includes a model evaluation report. Actual precision, recall, F1-sco
 ## Disclaimer
 
 FraudShield ML is an educational prototype. Its predictions are estimates and should not be used as the sole basis for real financial decisions.
-## 📸 Application Screenshots
-
-### Dashboard
-![FraudShield ML Dashboard](screenshots/dashboard.png)
-
-### Fraud Analytics
-![Fraud Analytics](screenshots/fraud-analytics.png)
-
-### Transaction Prediction
-![Transaction Prediction](screenshots/transaction-prediction.png)
 
 ## Author
 
